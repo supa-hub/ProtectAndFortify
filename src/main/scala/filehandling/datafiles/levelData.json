@@ -1,0 +1,65 @@
+[
+     {
+          "$type": "backend.jsonModels.LevelDeserialized",
+          "id": "1",
+          "enemies": {
+               "basic_emu": 2,
+               "car_emu": 3
+          },
+          "camouflaged": false
+     },
+     {
+          "$type": "backend.jsonModels.LevelDeserialized",
+          "id": "2",
+          "enemies": {
+               "basic_emu": 2,
+               "car_emu": 3
+          },
+          "camouflaged": true
+     },
+     {
+          "$type": "backend.jsonModels.LevelDeserialized",
+          "id": "3",
+          "enemies": {
+               "basic_emu": 6,
+               "reinforced_emu": 3
+          },
+          "camouflaged": false
+     },
+     {
+          "$type": "backend.jsonModels.LevelDeserialized",
+          "id": "4",
+          "enemies": {
+               "tank_emu": 3
+          },
+          "camouflaged": false
+     },
+     {
+          "$type": "backend.jsonModels.LevelDeserialized",
+          "id": "5",
+          "enemies": {
+               "tank_emu": 3,
+               "reinforced_emu": 5,
+               "car_emu": 10
+          },
+          "camouflaged": false
+     },
+     {
+          "$type": "backend.jsonModels.LevelDeserialized",
+          "id": "6",
+          "enemies": {
+               "tank_emu": 10,
+               "reinforced_emu": 5,
+               "car_emu": 15
+          },
+          "camouflaged": true
+     },
+     {
+          "$type": "backend.jsonModels.LevelDeserialized",
+          "id": "7",
+          "enemies": {
+               "1": 1
+          },
+          "camouflaged": false
+     }
+]

@@ -1,0 +1,16 @@
+[
+     {
+          "$type": "backend.jsonModels.BulletDeserialized",
+          "id": "rocket",
+          "dmg": 3,
+          "penetrationRate": 2,
+          "speed": 10
+     },
+     {
+          "$type": "backend.jsonModels.BulletDeserialized",
+          "id": "basic_ammunition",
+          "dmg": 2,
+          "penetrationRate": 1,
+          "speed": 10
+     }
+]

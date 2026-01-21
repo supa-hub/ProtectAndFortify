@@ -1,0 +1,32 @@
+[
+     {
+          "$type": "backend.jsonModels.BulletDeserialized",
+          "id": "basic_ammunition",
+          "dmg": 3,
+          "penetrationRate": 3,
+          "speed": 20
+     },
+     {
+          "$type": "backend.jsonModels.FollowingBulletDeserialized",
+          "id": "sniper_bullet",
+          "dmg": 2,
+          "penetrationRate": 1,
+          "speed": 15
+     },
+     {
+          "$type": "backend.jsonModels.FollowingExplosiveBulletDeserialized",
+          "id": "agm_rocket",
+          "dmg": 10,
+          "penetrationRate": 10,
+          "speed": 10,
+          "explosionRadius": 60
+     },
+     {
+          "$type": "backend.jsonModels.ExplosiveBulletDeserialized",
+          "id": "bazooka_rocket",
+          "dmg": 6,
+          "penetrationRate": 10,
+          "speed": 15,
+          "explosionRadius": 30
+     }
+]

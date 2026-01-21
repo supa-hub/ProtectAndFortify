@@ -1,0 +1,14 @@
+licensing proof:
+
+deepai.org: they state that all of the generated images are public domain and free for commercial use.
+The licensing is stated on the bottom of the page at link: https://deepai.org/machine-learning-model/text2img
+
+deepai images: 
+bazooka_rocket, basic_emu, tank_emu, soldier, tent, rocket_launcher, frontpage
+
+
+frontpage music (Sky9Games): Sky9Games CEO has replied to a reddit post where he stated that all of 
+their tracks are free for reuse without licensing issues.
+The reply is here: https://www.reddit.com/r/StrikeForceHeroes/comments/qz91xq/comment/hlm1d1j/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+the maps grass background is from OpenGameArt.org: https://opengameart.org/content/tower-defense-grass-background

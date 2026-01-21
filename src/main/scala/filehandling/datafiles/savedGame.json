@@ -1,0 +1,197 @@
+{
+     "enemies": [
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 640.5302712391511,
+                    "y": 85.27915821981429
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 636.9782242211409,
+                    "y": 81.66662915390089
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 633.3369124604866,
+                    "y": 78.15129197681857
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 629.6123755345571,
+                    "y": 74.73267753186084
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 625.8121193928298,
+                    "y": 71.40800674845228
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 621.9449881923911,
+                    "y": 68.17195603454532
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.AdvancedEnemySerializer",
+               "id": "car_emu",
+               "hp": 6,
+               "speed": 5,
+               "location": {
+                    "x": 361.8755036810994,
+                    "y": 59.847627214481726
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 507.6678170106253,
+                    "y": 21.394292779323838
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 502.69028591950473,
+                    "y": 20.882921998582646
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 497.7039699776173,
+                    "y": 20.458068135401692
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 492.70929936680625,
+                    "y": 20.15465189433602
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 487.709620241455,
+                    "y": 20.007931775331887
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 482.7115054653577,
+                    "y": 20.04957710097193
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 477.72052151423895,
+                    "y": 20.271051410878172
+               },
+               "camouflaged": false
+          },
+          {
+               "$type": "backend.jsonModels.BasicEnemySerializer",
+               "id": "basic_emu",
+               "hp": 5,
+               "speed": 5,
+               "location": {
+                    "x": 267.9563983850134,
+                    "y": 178.63102565650914
+               },
+               "camouflaged": false
+          }
+     ],
+     "towers": [
+          {
+               "$type": "backend.jsonModels.BasicTowerSerializer",
+               "id": "sniper",
+               "location": {
+                    "x": 446,
+                    "y": 188
+               },
+               "boosts": []
+          },
+          {
+               "$type": "backend.jsonModels.BasicTowerSerializer",
+               "id": "soldier",
+               "location": {
+                    "x": 540,
+                    "y": 250
+               },
+               "boosts": []
+          }
+     ],
+     "ammunition": [],
+     "mapId": "3",
+     "width": 1300,
+     "height": 700,
+     "playerHP": 100,
+     "playerMoney": 85,
+     "levelStartDelay": 0,
+     "levelIdx": 1
+}

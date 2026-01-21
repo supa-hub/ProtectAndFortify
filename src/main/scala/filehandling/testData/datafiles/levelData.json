@@ -1,0 +1,12 @@
+[
+     {
+          "$type": "backend.jsonModels.LevelDeserialized",
+          "id": "1",
+          "enemies": {
+               "1": 2,
+               "2": 3,
+               "3": 2
+          },
+          "camouflaged": false
+     }
+]

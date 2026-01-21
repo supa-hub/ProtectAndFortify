@@ -1,0 +1,53 @@
+[
+     {
+          "$type": "backend.jsonModels.BasicTowerDeserialized",
+          "id": "helicopter",
+          "bulletId": "rocket",
+          "tickPerShot": 150,
+          "value": 10,
+          "visionRadius": 300
+     },
+     {
+          "$type": "backend.jsonModels.BasicTowerDeserialized",
+          "id": "soldier",
+          "bulletId": "basic_ammunition",
+          "tickPerShot": 10,
+          "value": 10,
+          "visionRadius": 200
+     },
+     {
+          "$type": "backend.jsonModels.BoostingTowerDeserialized",
+          "id": "tent",
+          "value": 50,
+          "possibleBoostsAndPrice": [
+               [
+                    {
+                         "$type": "backend.tower.RangeBoost",
+                         "multiplier": 1.5
+                    },
+                    50
+               ],
+               [
+                    {
+                         "$type": "backend.tower.DmgMultiplier",
+                         "multiplier": 1.5
+                    },
+                    20
+               ],
+               [
+                    {
+                         "$type": "backend.tower.FireRate",
+                         "multiplier": 1.2
+                    },
+                    30
+               ],
+               [
+                    {
+                         "$type": "backend.tower.CamoVision"
+                    },
+                    30
+               ]
+          ],
+          "visionRadius": 200
+     }
+]
